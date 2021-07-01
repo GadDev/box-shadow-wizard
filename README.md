@@ -7,7 +7,7 @@ Apply easily a box-shadow on element
 `npm i box-shadow-wizard --save`
 
 ```
-import { boxShadowWizard } from 'box-shadow-wizard
+import { boxShadowWizard } from 'box-shadow-wizard'
 
 boxShadowWizard({
 	shadow_type: 'soft',
