@@ -1,4 +1,4 @@
-# box-shadow-wizard
+# Box-shadow Wizard
 
 Apply easily a box-shadow on element
 
@@ -19,5 +19,5 @@ boxShadowWizard({
 
 BoxShadowWizard supports 2 options, both of which are optional:
 
-* *shadow_type* - _hard | soft_ (Defaults to soft)
-* *padding* - _boolean_ (Defaults to false)
+-   _shadow_type_ - _hard | soft_ (Defaults to soft)
+-   _padding_ - _boolean_ (Defaults to false)
